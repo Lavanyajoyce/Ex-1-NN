@@ -30,11 +30,11 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 ## ALGORITHM:
 STEP 1:Importing the libraries<BR>
-STEP 1:Importing the dataset<BR>
-STEP 1:Taking care of missing data<BR>
-STEP 1:Encoding categorical data<BR>
-STEP 1:Normalizing the data<BR>
-STEP 1:Splitting the data into test and train<BR>
+STEP 2:Importing the dataset<BR>
+STEP 3:Taking care of missing data<BR>
+STEP 4:Encoding categorical data<BR>
+STEP 5:Normalizing the data<BR>
+STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
 TYPE YOUR CODE HERE
